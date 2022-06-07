@@ -12,7 +12,7 @@ export function Sorteador() {
      
     
       
-    <div className='w-2/4 h-screen m-auto md:w-screen md:h-screen flex flex-col flex-center justify-center items-center'>
+    <div className='w-screen h-screen m-auto md:w-screen md:h-screen flex flex-col flex-center justify-center items-center'>
       <div className='border-0 border-zinc-500 shadow-2xl shadow-black rounded-xl md:p-28 p-4'>
          <h1 className="font-bold md:text-5xl text-xl text-center mb-10 ">Mega Sena</h1>  
 
